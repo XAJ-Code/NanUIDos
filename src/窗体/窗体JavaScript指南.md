@@ -96,7 +96,7 @@ formium.hostWindow.close();
 
 `External` 对象用于装载 WinFormium 窗体中使用 `RegisterJavaScriptObject` 方法注册的 JavaScript 对象，您可以使用 `window.external` 来访问这些注册的对象。
 
-有关 `RegisterJavaScriptObject` 方法的更多信息，请参考[《在 JavaScript 中注册 .NET 映射对象》](./JavaScript/在JavaScript中注册.NET映射对象.md)一文。
+有关 `RegisterJavaScriptObject` 方法的更多信息，请参考[《在 JavaScript 中注册 .NET 映射对象》](../JavaScript/在JavaScript中注册.NET映射对象.md)一文。
 
 ## 事件
 

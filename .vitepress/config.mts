@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NanUI文档",
   description: "NanUI Documentation",
+  base: "/NanUIDos/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
